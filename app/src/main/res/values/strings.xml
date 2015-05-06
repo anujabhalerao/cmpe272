@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Pollen Care</string>
+    <string name="user_name">Guest</string>
+    <string name="hello_world">Please Wait !! Graph will be displayed here</string>
+    <string name="action_devices">Devices</string>
+    <string name="action_pollenMap">Pollen Map</string>
+    <string name="action_preferences">Preferences</string>
+    <string name="title_activity_devices">My Devices</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_device_list">DeviceListActivity</string>
+
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Google Sign in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="plus_sign_out">Switch Google+ account</string>
+    <string name="plus_disconnect">Disconnect from Google+</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="title_activity_temp">Google+ Sign in</string>
+</resources>
